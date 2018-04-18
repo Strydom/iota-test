@@ -1,0 +1,12 @@
+{
+  "name": "iota-test",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@iota/curl-remote": "0.0.3",
+    "iota.lib.js": "0.4.7"
+  }
+}
